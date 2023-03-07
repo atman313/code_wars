@@ -10,3 +10,5 @@ function removeChar(str) {
 // My solution 
 
 const removeChar = str => str.slice(1,-1)
+
+
