@@ -26,7 +26,6 @@ for(let i = 0; i < string.length; i++){
 }
 
 return array.join("");
-
 }
 
 
